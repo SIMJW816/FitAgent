@@ -1,4 +1,4 @@
-🏋️‍♂️ FitAgent: OpenAI Function Calling 기반 AI 퍼스널 트레이너
+<h1>🏋️‍♂️ FitAgent: OpenAI Function Calling 기반 AI 퍼스널 트레이너</h1>
 FitAgent는 OpenAI의 Function Calling 기술을 활용하여 사용자의 식단과 운동 기록을 실시간으로 분석하고, 외부 API 데이터를 바탕으로 최적의 피드백과 맞춤형 식단을 제공하는 지능형 에이전트 시스템입니다.
 
 🚀 프로젝트 개요
