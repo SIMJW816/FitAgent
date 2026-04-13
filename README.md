@@ -163,3 +163,20 @@ Chart.js 기반 UI 제공:
 OPENAI_API_KEY=your_openai_api_key
 FATSECRET_CLIENT_ID=your_fatsecret_client_id
 FATSECRET_CLIENT_SECRET=your_fatsecret_client_secret
+
+### 2️⃣ 라이브러리 설치
+
+터미널에서 필요한 패키지를 설치합니다.
+
+```env
+pip install fastapi uvicorn openai requests python-dotenv
+
+### 3️⃣ 서버 실행
+
+```env
+python main.py
+
+### 4️⃣ 웹 앱 접속
+
+```env
+서버가 실행되면 브라우저에서 index.html 파일을 열거나 로컬 서버 주소를 통해 접속합니다.
